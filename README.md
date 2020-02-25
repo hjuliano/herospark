@@ -28,6 +28,6 @@ No próximo exemplo utilizamos um backend em Kubernetes.
 
 ## Resumo
 
-Independente qual for o backend utilizado e forma como a API será exposta para ser consumida, o pipeline de CI/CD seguirá o fluxo apresentado no início apenas será ajustado os processos para build e deploy de acordo com a arquitetura e os testes desejados.
+Independente qual for o backend utilizado e forma como a API será exposta para ser consumida, o pipeline de CI/CD seguirá o fluxo apresentado no início apenas será ajustado os processos para build e deploy de acordo com a arquitetura e os testes unitários desejados.
 
 O provisionamento da infra pode ser feito tanto pelo cloudformation da própria AWS quanto pelo terraform, caso exista a possibilidade de utilizar outros provedores de cloud no futuro, optar pelo uso do terraform para o IAC (infraestrutura como código) da arquitetura, pois o mesmo aceita diferentes providers.
