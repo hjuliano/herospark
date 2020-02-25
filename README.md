@@ -18,7 +18,7 @@ Temos um exemplo abaixo da api armazenada em um elastic beanstalk e o processo d
 
 ![elasticbeanstalk](https://imagesbox.blob.core.windows.net/pictures/elasticbeabstalk.png)
 
-No exemplo abaixo foi imaginado um cenário serveless onde a api pode ser chamada tanto via lambda, quanto pelo api gateway ou direto em um banco de dados.
+No exemplo abaixo foi imaginado um cenário serverless onde a api pode ser chamada tanto via lambda, quanto pelo api gateway ou direto em um banco de dados.
 
 ![lambda](https://imagesbox.blob.core.windows.net/pictures/lambda.png)
 
